@@ -5,7 +5,7 @@
 }
 .hero-section {
     min-height: 100vh;
-    background:url('/images/medical-page-bg-main-img.svg');
+    background:url('images/medical-page-bg-main-img.svg');
     background-size: cover;
     /* background-position: center; */
     background-repeat: no-repeat;
@@ -525,37 +525,37 @@ textarea.form-control {
 
         /* Hospital Background Images */
         .hospital-artimis {
-            background:url('/images/sec-3-img-1.svg');
+            background:url('images/sec-3-img-1.svg');
             background-size: cover;
             background-position: center;
         }
 
         .hospital-medanta {
-            background: url('/images/sec-3-img-2.svg');
+            background: url('images/sec-3-img-2.svg');
             background-size: cover;
             background-position: center;
         }
 
         .hospital-apollo {
-            background: url('/images/sec-3-img-3.svg');
+            background: url('images/sec-3-img-3.svg');
             background-size: cover;
             background-position: center;
         }
 
         .hospital-max {
-            background:url('/images/sec-3-img-4.svg');
+            background:url('images/sec-3-img-4.svg');
             background-size: cover;
             background-position: center;
         }
 
         .hospital-fortis {
-            background:url('/images/sec-3-img-5.svg');
+            background:url('images/sec-3-img-5.svg');
             background-size: cover;
             background-position: center;
         }
 
         .hospital-amrita {
-            background:url('/images/sec-3-img-3.svg');
+            background:url('images/sec-3-img-3.svg');
             background-size: cover;
             background-position: center;
         }
@@ -1049,7 +1049,7 @@ textarea.form-control {
 
          .appointment-section {
             background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-                        url('/images/sec-9-bg-img.jpg');
+                        url('images/sec-9-bg-img.jpg');
             background-size: cover;
             /* background-position: center; */
             background-repeat: no-repeat;
@@ -1964,4 +1964,5 @@ textarea.form-control {
                 opacity: 1;
                 transform: translateY(0);
             }
+
         }
